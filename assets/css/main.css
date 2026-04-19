@@ -768,7 +768,7 @@ input[type="radio"] + label:before {
   font-weight: 900;
 }
 
-.icon.brands:before {
+.icon.fab:before {
   font-family: "Font Awesome 5 Brands";
 }
 
